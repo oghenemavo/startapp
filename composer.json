@@ -1,0 +1,15 @@
+{
+    "autoload": {
+        "psr-4": {
+            "App\\": "control/App"
+        }
+    },
+    "require": {
+        "pimple/pimple": "^3.2",
+        "northwoods/config": "^2.0",
+        "rakit/validation": "^1.2",
+        "vlucas/phpdotenv": "^3.6",
+        "phpmailer/phpmailer": "^6.1",
+        "twig/twig": "^2.0"
+    }
+}

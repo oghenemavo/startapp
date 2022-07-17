@@ -1,0 +1,3 @@
+Please copy the following link to a browser reset your password
+
+{{ url }}

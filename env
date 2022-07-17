@@ -1,0 +1,5 @@
+DB_HOST=127.0.0.1
+DB_NAME=startup
+DB_USER=oghrend
+DB_PASS=@$fq42$d2r2
+ENVIRONMENT=development

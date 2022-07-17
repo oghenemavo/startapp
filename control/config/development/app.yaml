@@ -1,0 +1,21 @@
+app:
+  url: <%= ENV["DB_HOST"] %>
+  hash:
+    algo: PASSWORD_BCRYPT
+    cost: 10
+
+db:
+  driver: mysql
+  host: 127.0.0.1
+  db_name: startup
+  username: ogh
+  password: whw
+  charset: utf8
+  collation: utf8_unicode_ci
+  prefix:
+
+auth:
+  session: user_id
+  remember: user_rm
+
+mail:
